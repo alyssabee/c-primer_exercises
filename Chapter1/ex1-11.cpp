@@ -13,14 +13,14 @@ int main()
 	std::cin >> num1 >> num2;
 	reset = num1;
 
-	while(num1 < num2 + 1) {
+	while(num1 <= num2) {
 		std::cout << std::endl << num1;
 		++num1; 
 	}
 
 	num1 = reset;
 
-	while(num1 > num2 - 1) {
+	while(num1 >= num2) {
 		std::cout << std::endl << num1;
 		--num1;
 	} 
