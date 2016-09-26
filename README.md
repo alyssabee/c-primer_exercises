@@ -1,7 +1,7 @@
 # c-primer_exercises
 Exercises from C++ Primer (5th Edition)
 
-Hi! 
+Hiya! 
 
 I will be using the C++ Primer 5th Edition to learn C++. 
 
